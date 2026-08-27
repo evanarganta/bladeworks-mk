@@ -8,13 +8,13 @@
             <a href="{{ url('/dashboard') }}" class="inline-flex items-center border border-[#27272a] bg-[#18181b] px-3 py-1.5 text-xs font-medium text-[#d4d4d8] hover:border-[#3f3f46] hover:bg-[#27272a] hover:text-white">
                 dashboard
             </a>
-            <a href="{{ url('/nav-tugas') }}" class="inline-flex items-center border border-[#27272a] bg-[#18181b] px-3 py-1.5 text-xs font-medium text-[#d4d4d8] hover:border-[#3f3f46] hover:bg-[#27272a] hover:text-white">
+            <a href="#" class="inline-flex items-center border border-[#27272a] bg-[#18181b] px-3 py-1.5 text-xs font-medium text-[#71717a] hover:border-[#3f3f46] hover:text-[#d4d4d8]">
                 tugas
             </a>
-            <a href="{{ url('/nav-jadwal') }}" class="inline-flex items-center border border-[#27272a] bg-[#18181b] px-3 py-1.5 text-xs font-medium text-[#d4d4d8] hover:border-[#3f3f46] hover:bg-[#27272a] hover:text-white">
+            <a href="#" class="inline-flex items-center border border-[#27272a] bg-[#18181b] px-3 py-1.5 text-xs font-medium text-[#71717a] hover:border-[#3f3f46] hover:text-[#d4d4d8]">
                 jadwal
             </a>
-            <a href="{{ url('/nav-pengaturan') }}" class="inline-flex items-center border border-[#27272a] bg-[#18181b] px-3 py-1.5 text-xs font-medium text-[#d4d4d8] hover:border-[#3f3f46] hover:bg-[#27272a] hover:text-white">
+            <a href="#" class="inline-flex items-center border border-[#27272a] bg-[#18181b] px-3 py-1.5 text-xs font-medium text-[#71717a] hover:border-[#3f3f46] hover:text-[#d4d4d8]">
                 pengaturan
             </a>
         </nav>

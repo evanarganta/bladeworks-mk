@@ -28,7 +28,7 @@
             </div>
             <div class="border border-[#27272a] bg-[#18181b] p-4">
                 <p class="text-xs text-[#a1a1aa]">modul selesai</p>
-                <p class="mt-1 text-xl font-medium text-white">3 / 6</p>
+                <p class="mt-1 text-xl font-medium text-white">4 / 6</p>
                 <p class="mt-1 text-[11px] text-[#71717a]">praktikum 4: blade component</p>
             </div>
             <div class="border border-[#27272a] bg-[#18181b] p-4">
@@ -68,7 +68,7 @@
                     <tr>
                         <td class="px-4 py-3 font-mono text-[#a1a1aa]">03</td>
                         <td class="px-4 py-3 font-medium text-white">Membuat Partial View</td>
-                        <td class="px-4 py-3 font-mono text-[#a1a1aa]">&#64;include('partials.*')</td>
+                        <td class="px-4 py-3 font-mono text-[#a1a1aa]">&#64;include('partials.navbar'), &#64;include('partials.footer')</td>
                         <td class="px-4 py-3 text-[#a1a1aa]">Selesai</td>
                     </tr>
                     <tr>
