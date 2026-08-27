@@ -41,11 +41,6 @@
             <p class="text-[11px] text-[#a1a1aa] mt-1">kurikulum merdeka</p>
         </x-card>
 
-        <x-card>
-            <p class="text-[11px] font-mono uppercase text-[#71717a]">kehadiran hari ini</p>
-            <p class="text-2xl font-medium text-white mt-1">100%</p>
-            <p class="text-[11px] text-[#a1a1aa] mt-1">{{ $totalSiswa }} siswa hadir</p>
-        </x-card>
     </div>
 
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-3">
