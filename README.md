@@ -1,4 +1,4 @@
-# Mini Project Template Dashboard Admin Sekolah
+<h2 align="center">Mini Project Template Dashboard Admin Sekolah</h1><br>
 
 <img width="100%" alt="gambar" src="https://github.com/user-attachments/assets/90f50bde-c032-4c61-a383-009374cfb4c2" />
 
