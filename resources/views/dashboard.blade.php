@@ -29,7 +29,7 @@
             <div class="border border-[#27272a] bg-[#18181b] p-4">
                 <p class="text-xs text-[#a1a1aa]">modul selesai</p>
                 <p class="mt-1 text-xl font-medium text-white">3 / 6</p>
-                <p class="mt-1 text-[11px] text-[#71717a]">praktikum 3: blade component</p>
+                <p class="mt-1 text-[11px] text-[#71717a]">praktikum 4: blade component</p>
             </div>
             <div class="border border-[#27272a] bg-[#18181b] p-4">
                 <p class="text-xs text-[#a1a1aa]">status inheritance</p>
