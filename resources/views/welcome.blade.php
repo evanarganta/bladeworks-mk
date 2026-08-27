@@ -4,7 +4,6 @@
 
 @section('content')
 <div class="mx-auto max-w-4xl px-6 py-10">
-    <!-- Breadcrumb & Title -->
     <div class="space-y-1">
         <h1 class="text-2xl font-medium text-white tracking-tight text-center">pembuatan layout utama.</h1>
         <p class="text-sm text-[#a1a1aa] text-center">
@@ -14,7 +13,6 @@
 
     <div class="my-8"></div>
 
-    <!-- Section 1: Ringkasan Langkah Kerja -->
     <section class="space-y-4">
         <h2 class="text-base font-normal text-white">langkah kerja.</h2>
         
@@ -58,7 +56,6 @@
         </div>
     </section>
 
-    <!-- Section 2: Struktur Template -->
     <section class="mt-10 space-y-4" id="struktur">
         <h2 class="text-base font-normal text-white">struktur berkas.</h2>
         <pre class="bg-[#18181b] border border-[#27272a] p-4 text-xs font-mono text-[#d4d4d8] leading-relaxed overflow-x-auto">resources/views/
@@ -67,7 +64,6 @@
 └── welcome.blade.php        <span class="text-[#71717a]">&lt;-- child view (extends layouts.app)</span></pre>
     </section>
 
-    <!-- Section 3: Contoh Sintaks -->
     <section class="mt-10 space-y-4" id="sintaks">
         <h2 class="text-base font-normal text-white">penerapan pada view.</h2>
         <p class="text-xs text-[#a1a1aa]">
