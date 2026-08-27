@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>@yield('title', 'bladeworks.')</title>
+    <title>@yield('title', 'Admin Sekolah')</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,9 +15,13 @@
 <body class="flex min-h-full flex-col font-sans bg-[#111113] text-[#d4d4d8] selection:bg-[#27272a] selection:text-white">
     @include('partials.navbar')
 
-    <main class="flex-1">
-        @yield('content')
-    </main>
+    <div class="flex-1 flex flex-col md:flex-row">
+        @include('partials.sidebar')
+
+        <main class="flex-1 p-6 md:p-8 min-w-0 bg-[#0c0c0e]">
+            @yield('content')
+        </main>
+    </div>
 
     @include('partials.footer')
 
