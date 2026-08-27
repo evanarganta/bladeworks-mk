@@ -1,10 +1,10 @@
-<footer class="border-t border-[#27272a] bg-[#111113] py-6 text-xs text-[#71717a]">
-    <div class="mx-auto flex max-w-4xl flex-col sm:flex-row sm:items-center sm:justify-between gap-2 px-6">
-        <div class="text-[#a1a1aa]">
-            Laravel {{ Illuminate\Foundation\Application::VERSION }}
+<footer class="border-t border-[#27272a] bg-[#111113] py-4 px-6 text-xs text-[#71717a]">
+    <div class="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+        <div>
+            <span>laravel {{ Illuminate\Foundation\Application::VERSION }}</span>
         </div>
-        <div class="text-[#a1a1aa]">
-            PHP {{ PHP_VERSION }}
+        <div class="flex items-center gap-3">
+            <span>php {{ PHP_VERSION }}</span>
         </div>
     </div>
 </footer>
