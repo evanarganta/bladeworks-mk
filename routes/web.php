@@ -65,6 +65,6 @@ Route::get('/nilai', function () {
 
 Route::get('/profil', function () {
     return view('profil', [
-        'admin' => User::first(),
+        'admin' => User::where('email', 'admin@smkn2.sch.id')->first(),
     ]);
 });
