@@ -27,4 +27,4 @@
    php artisan serve
    ```
 
-<p align="center">Akses aplikasi di browser: <code>http://127.0.0.1:8000</code>.</p>
+<p align="center">Akses aplikasi di browser: <code>http://127.0.0.1:8000</code> atau <code>http://localhost:8000</code>.</p>
