@@ -1,4 +1,4 @@
-# Mini Project Template Dashboard Admin Sekolah
+<h2 align="center">mini project template dashboard admin sekolah.</h1><br>
 
 <img width="100%" alt="gambar" src="https://github.com/user-attachments/assets/90f50bde-c032-4c61-a383-009374cfb4c2" />
 
@@ -27,4 +27,4 @@
    php artisan serve
    ```
 
-<p align="center">Akses aplikasi di browser: <code>http://127.0.0.1:8000</code> atau <code>http://localhost:8000</code>.</p>
+<p align="center">akses aplikasi di browser: <code>http://127.0.0.1:8000</code> atau <code>http://localhost:8000</code>.</p>
